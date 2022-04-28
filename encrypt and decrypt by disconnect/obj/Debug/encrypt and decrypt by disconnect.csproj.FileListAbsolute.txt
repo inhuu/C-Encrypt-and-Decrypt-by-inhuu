@@ -1,0 +1,9 @@
+D:\virus\encrypt and decrypt by disconnect\encrypt and decrypt by disconnect\bin\Debug\encrypt and decrypt by disconnect.exe.config
+D:\virus\encrypt and decrypt by disconnect\encrypt and decrypt by disconnect\bin\Debug\encrypt and decrypt by disconnect.exe
+D:\virus\encrypt and decrypt by disconnect\encrypt and decrypt by disconnect\bin\Debug\encrypt and decrypt by disconnect.pdb
+D:\virus\encrypt and decrypt by disconnect\encrypt and decrypt by disconnect\obj\Debug\encrypt_and_decrypt_by_disconnect.Properties.Resources.resources
+D:\virus\encrypt and decrypt by disconnect\encrypt and decrypt by disconnect\obj\Debug\encrypt and decrypt by disconnect.csproj.GenerateResource.Cache
+D:\virus\encrypt and decrypt by disconnect\encrypt and decrypt by disconnect\obj\Debug\encrypt and decrypt by disconnect.exe
+D:\virus\encrypt and decrypt by disconnect\encrypt and decrypt by disconnect\obj\Debug\encrypt and decrypt by disconnect.pdb
+D:\virus\encrypt and decrypt by disconnect\encrypt and decrypt by disconnect\obj\Debug\encrypt and decrypt by disconnect.csprojResolveAssemblyReference.cache
+D:\virus\encrypt and decrypt by disconnect\encrypt and decrypt by disconnect\obj\Debug\EncryptDecrypt.Form1.resources
